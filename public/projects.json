@@ -1,0 +1,34 @@
+[
+  
+  { 
+    "src": "novikov.jpg", 
+    "title": "Novikov Group", 
+    "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
+    "awards": ["Behance ×2"],
+    "video": "novikov.mp4",
+    "categories": ["Retail", "E-commerce"]
+  },
+  { 
+    "src": "akvasink.jpg", 
+    "title": "Akvasink", 
+    "description": "Интернет-магазин сантехники",
+    "video": "akvasink.mp4",
+    "categories": ["Retail", "E-commerce"]
+  },
+  { 
+    "src": "chl.jpg", 
+    "title": "Чистая Линия", 
+    "description": "Корпоративный сайт и каталог производителя мороженого ", 
+    "awards": ["Рейтинг Рунета ×2", "Tagline Awards ×2", "CSS Design Awards ×1"],
+    "video": "chl.mp4",
+    "categories": ["Retail", "E-commerce"]
+  },
+  { 
+    "src": "gmz.jpg", 
+    "title": "Гиагинский молочный завод", 
+    "description": "Корпоративный сайт и каталог производителя молочной продукции", 
+    "awards": ["Рейтинг Рунета ×2", "Tagline Awards ×2", "Золотой сайт ×4", "AWWWARDS ×1"],
+    "video": "gmz.mp4",
+    "categories": ["Retail", "E-commerce"]
+  }
+]
