@@ -4,31 +4,102 @@
     "src": "novikov.jpg", 
     "title": "Novikov Group", 
     "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
-    "awards": ["Behance ×2"],
-    "video": "novikov.mp4",
-    "categories": ["Retail", "E-commerce"]
+    "awards": [
+      {
+        "name": "Behance",
+        "count": 2
+      }
+    ],
+    "video": "novikov.mp4"
   },
   { 
     "src": "akvasink.jpg", 
     "title": "Akvasink", 
     "description": "Интернет-магазин сантехники",
-    "video": "akvasink.mp4",
-    "categories": ["Retail", "E-commerce"]
+    "video": "akvasink.mp4"
   },
   { 
     "src": "chl.jpg", 
     "title": "Чистая Линия", 
     "description": "Корпоративный сайт и каталог производителя мороженого ", 
-    "awards": ["Рейтинг Рунета ×2", "Tagline Awards ×2", "CSS Design Awards ×1"],
-    "video": "chl.mp4",
-    "categories": ["Retail", "E-commerce"]
+    "awards": [
+      {
+        "name": "Рейтинг Рунета",
+        "count": 2
+      },
+      {
+        "name": "Tagline Awards",
+        "count": 2
+      },
+      {
+        "name": "CSS Design Awards",
+        "count": 1
+      }
+    ],
+    "video": "chl.mp4"
   },
   { 
     "src": "gmz.jpg", 
     "title": "Гиагинский молочный завод", 
     "description": "Корпоративный сайт и каталог производителя молочной продукции", 
-    "awards": ["Рейтинг Рунета ×2", "Tagline Awards ×2", "Золотой сайт ×4", "AWWWARDS ×1"],
-    "video": "gmz.mp4",
-    "categories": ["Retail", "E-commerce"]
+    "awards": [
+      {
+        "name": "Рейтинг Рунета",
+        "count": 2
+      },
+      {
+        "name": "Tagline Awards",
+        "count": 2
+      },
+      {
+        "name": "Золотой сайт",
+        "count": 4
+      },
+      {
+        "name": "AWWWARDS",
+        "count": 1
+      },
+      {
+        "name": "CSS Design Awards",
+        "count": 1
+      }
+    ],
+    "video": "gmz.mp4"
+  },
+  { 
+    "src": "epigen.jpg", 
+    "title": "Эпиген Интим", 
+    "description": "Сайт линии средств для женского интимного здоровья", 
+    "awards": [
+      {
+        "name": "Золотой сайт",
+        "count": 2
+      },
+      {
+        "name": "CSS Design Awards",
+        "count": 1
+      }
+    ],
+    "video": "epigen.mp4"
+  },
+  { 
+    "src": "pride.jpg", 
+    "title": "Pride", 
+    "description": "Интернет-магазин поставщика профессионального инструмента и автохимии ", 
+    "awards": [
+      {
+        "name": "Tagline Awards",
+        "count": 2
+      },
+      {
+        "name": "AWWWARDS",
+        "count": 1
+      },
+      {
+        "name": "CSS Design Awards",
+        "count": 1
+      }
+    ],
+    "video": "pride.mp4"
   }
 ]
