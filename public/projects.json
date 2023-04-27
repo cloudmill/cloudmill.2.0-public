@@ -1,105 +1,364 @@
-[
-  
-  { 
-    "src": "novikov.jpg", 
-    "title": "Novikov Group", 
-    "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
-    "awards": [
-      {
-        "name": "Behance",
-        "count": 2
-      }
-    ],
-    "video": "novikov.mp4"
-  },
-  { 
-    "src": "akvasink.jpg", 
-    "title": "Akvasink", 
-    "description": "Интернет-магазин сантехники",
-    "video": "akvasink.mp4"
-  },
-  { 
-    "src": "chl.jpg", 
-    "title": "Чистая Линия", 
-    "description": "Корпоративный сайт и каталог производителя мороженого ", 
-    "awards": [
-      {
-        "name": "Рейтинг Рунета",
-        "count": 2
-      },
-      {
-        "name": "Tagline Awards",
-        "count": 2
-      },
-      {
-        "name": "CSS Design Awards",
-        "count": 1
-      }
-    ],
-    "video": "chl.mp4"
-  },
-  { 
-    "src": "gmz.jpg", 
-    "title": "Гиагинский молочный завод", 
-    "description": "Корпоративный сайт и каталог производителя молочной продукции", 
-    "awards": [
-      {
-        "name": "Рейтинг Рунета",
-        "count": 2
-      },
-      {
-        "name": "Tagline Awards",
-        "count": 2
-      },
-      {
-        "name": "Золотой сайт",
-        "count": 4
-      },
-      {
-        "name": "AWWWARDS",
-        "count": 1
-      },
-      {
-        "name": "CSS Design Awards",
-        "count": 1
-      }
-    ],
-    "video": "gmz.mp4"
-  },
-  { 
-    "src": "epigen.jpg", 
-    "title": "Эпиген Интим", 
-    "description": "Сайт линии средств для женского интимного здоровья", 
-    "awards": [
-      {
-        "name": "Золотой сайт",
-        "count": 2
-      },
-      {
-        "name": "CSS Design Awards",
-        "count": 1
-      }
-    ],
-    "video": "epigen.mp4"
-  },
-  { 
-    "src": "pride.jpg", 
-    "title": "Pride", 
-    "description": "Интернет-магазин поставщика профессионального инструмента и автохимии ", 
-    "awards": [
-      {
-        "name": "Tagline Awards",
-        "count": 2
-      },
-      {
-        "name": "AWWWARDS",
-        "count": 1
-      },
-      {
-        "name": "CSS Design Awards",
-        "count": 1
-      }
-    ],
-    "video": "pride.mp4"
-  }
-]
+{
+  "main": [
+    { 
+      "src": "resp.jpg", 
+      "title": "Респираторный Комплекс", 
+      "description": "Сайт производителя фильтрующих респираторов", 
+      "awards": [
+        {
+          "name": "Золотой Сайт",
+          "count": 3
+        }
+      ],
+      "video": "resp.mp4"
+    },
+    { 
+      "src": "novikov.jpg", 
+      "title": "Novikov Group", 
+      "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
+      "awards": [
+        {
+          "name": "Behance",
+          "count": 2
+        }
+      ],
+      "video": "novikov.mp4"
+    },
+    { 
+      "src": "epigen.jpg", 
+      "title": "Эпиген Интим", 
+      "description": "Сайт линии средств для женского интимного здоровья", 
+      "awards": [
+        {
+          "name": "Золотой сайт",
+          "count": 2
+        },
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "epigen.mp4"
+    },
+    { 
+      "src": "akvasink.jpg", 
+      "title": "Akvasink", 
+      "description": "Интернет-магазин сантехники",
+      "video": "akvasink.mp4"
+    },
+    { 
+      "src": "chl.jpg", 
+      "title": "Чистая Линия", 
+      "description": "Корпоративный сайт и каталог производителя мороженого ", 
+      "awards": [
+        {
+          "name": "Рейтинг Рунета",
+          "count": 2
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 2
+        },
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "chl.mp4"
+    },
+    { 
+      "src": "gmz.jpg", 
+      "title": "Гиагинский молочный завод", 
+      "description": "Корпоративный сайт и каталог производителя молочной продукции", 
+      "awards": [
+        {
+          "name": "Рейтинг Рунета",
+          "count": 2
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 2
+        },
+        {
+          "name": "Золотой сайт",
+          "count": 4
+        },
+        {
+          "name": "AWWWARDS",
+          "count": 1
+        },
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "gmz.mp4"
+    }
+  ],
+  "projects": [
+    { 
+      "src": "gel4u.jpg", 
+      "title": "GEL4U", 
+      "description": "Дизайн интернет-магазина дистрибьютора спортивного питания", 
+      "awards": [
+        {
+          "name": "Золотой Сайт",
+          "count": 3
+        }
+      ],
+      "video": "gel4u.mp4",
+      "categories": ["Retail", "E-commerce"]
+    },
+    { 
+      "src": "resp.jpg", 
+      "title": "Респираторный Комплекс", 
+      "description": "Сайт производителя фильтрующих респираторов", 
+      "awards": [
+        {
+          "name": "Золотой Сайт",
+          "count": 3
+        }
+      ],
+      "video": "resp.mp4",
+      "categories": ["Retail", "E-commerce", "Промышленность"]
+    },
+    { 
+      "src": "novikov.jpg", 
+      "title": "Novikov Group", 
+      "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
+      "awards": [
+        {
+          "name": "Behance",
+          "count": 2
+        }
+      ],
+      "video": "novikov.mp4",
+      "categories": ["Retail", "E-commerce"]
+    },
+    { 
+      "src": "epigen.jpg", 
+      "title": "Эпиген Интим", 
+      "description": "Сайт линии средств для женского интимного здоровья", 
+      "awards": [
+        {
+          "name": "Золотой сайт",
+          "count": 2
+        },
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "epigen.mp4",
+      "categories": ["FMCG", "Фарма"]
+    },
+    { 
+      "src": "chl.jpg", 
+      "title": "Чистая Линия", 
+      "description": "Корпоративный сайт и каталог производителя мороженого ", 
+      "awards": [
+        {
+          "name": "Рейтинг Рунета",
+          "count": 2
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 2
+        },
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "chl.mp4",
+      "categories": ["FMCG", "Retail", "Промышленность"]
+    },
+    { 
+      "src": "slt.jpg", 
+      "title": "СЛТ-Аква", 
+      "description": "Сайт для российского бренда производителя полипропиленовых труб", 
+      "video": "gmz.mp4",
+      "categories": ["FMCG", "Retail", "Промышленность"]
+    },
+    { 
+      "src": "gmz.jpg", 
+      "title": "Гиагинский молочный завод", 
+      "description": "Корпоративный сайт и каталог производителя молочной продукции", 
+      "awards": [
+        {
+          "name": "Рейтинг Рунета",
+          "count": 2
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 2
+        },
+        {
+          "name": "Золотой сайт",
+          "count": 4
+        },
+        {
+          "name": "AWWWARDS",
+          "count": 1
+        },
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "gmz.mp4",
+      "categories": ["FMCG", "Retail", "Промышленность"]
+    },
+    { 
+      "src": "pride.jpg", 
+      "title": "Pride", 
+      "description": "Интернет-магазин поставщика профессионального инструмента и автохимии", 
+      "awards": [
+        {
+          "name": "Tagline Awards",
+          "count": 2
+        },
+        {
+          "name": "AWWWARDS",
+          "count": 1
+        },
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "pride.mp4",
+      "categories": ["Retail", "E-commerce"]
+    },
+    { 
+      "src": "alan.jpg", 
+      "title": "Alan AI", 
+      "description": "No-code-разработка сайта платформы голосового ассистента", 
+      "video": "alan.mp4",
+      "categories": ["IT"]
+    },
+    { 
+      "src": "wineberry.jpg", 
+      "title": "Wineberry", 
+      "description": "Интернет-магазин и личный кабинет дистрибьютера алкогольной продукции", 
+      "video": "wineberry.mp4",
+      "categories": ["Retail", "E-commerce"]
+    },
+    { 
+      "src": "erga.jpg", 
+      "title": "ЭРГА", 
+      "description": "Cайт производителя магнитных систем и промышленного оборудования", 
+      "awards": [
+        {
+          "name": "Tagline Awards",
+          "count": 1
+        }
+      ],
+      "video": "erga.mp4",
+      "categories": ["Промышленность"]
+    },
+    { 
+      "src": "alfa.jpg", 
+      "title": "Альфа Горизонт", 
+      "description": "Cайт производителя скважинного оборудования", 
+      "video": "alfa.mp4",
+      "categories": ["Промышленность"]
+    },
+    { 
+      "src": "theatre.jpg", 
+      "title": "Театр балета Бориса Эйфмана", 
+      "description": "Дизайн сайта для государственного академического театра Бориса Эйфмана", 
+      "awards": [
+        {
+          "name": "Behance",
+          "count": 1
+        }
+      ],
+      "video": "theatre.mp4",
+      "categories": []
+    },
+    { 
+      "src": "salini.jpg", 
+      "title": "Salini", 
+      "description": "Сайт итальянского бренда сантехники премиум-класса", 
+      "video": "salini.mp4",
+      "categories": ["Retail", "E-commerce", "Промышленность"]
+    },
+    { 
+      "src": "welldone.jpg", 
+      "title": "Welldone", 
+      "description": "Промо-сайт бренда производителя растительного мяса", 
+      "awards": [
+        {
+          "name": "Tagline Awards",
+          "count": 3
+        },
+        {
+          "name": "Рейтинг Рунета",
+          "count": 1
+        },
+        {
+          "name": "Made on Tilda",
+          "count": 1
+        }
+      ],
+      "video": "welldone.mp4",
+      "categories": ["FMCG", "Retail"]
+    },
+    { 
+      "src": "akvasink.jpg", 
+      "title": "Akvasink", 
+      "description": "Интернет-магазин сантехники",
+      "video": "akvasink.mp4",
+      "categories": ["E-commerce", "Retail"]
+    },
+    { 
+      "src": "ssp.jpg", 
+      "title": "ССП-Консалт", 
+      "description": "Сайт юридической компании",
+      "awards": [
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "ssp.mp4",
+      "categories": []
+    },
+    { 
+      "src": "fkl.jpg", 
+      "title": "FKL", 
+      "description": "Интернет-магазин генерального дистрибьютора завода FKL на территории России и СНГ",
+      "video": "fkl.mp4",
+      "categories": ["E-commerce", "Retail", "Промышленность"]
+    },
+    { 
+      "src": "krass.jpg", 
+      "title": "Krass", 
+      "description": "Cайт производителя строительных герметиков, монтажных пен, клеев и уплотнителей",
+      "video": "krass.mp4",
+      "categories": ["FMCG", "Retail"]
+    },
+    { 
+      "src": "love.jpg", 
+      "title": "Люди Любят", 
+      "description": "Сайт сети кафе-пекарен в Санкт-Петерубр с функциональностью онлайн-заказа",
+      "video": "love.mp4",
+      "categories": ["E-commerce", "Retail", "FMCG"]
+    },
+    { 
+      "src": "dubki.jpg", 
+      "title": "Дубки", 
+      "description": "Cайт и приложение c доставкой для торговой сети продуктовых магазинов «у дома»",
+      "video": "dubki.mp4",
+      "categories": ["E-commerce", "Retail", "FMCG"]
+    },
+    { 
+      "src": "guides.jpg", 
+      "title": "Best Guides", 
+      "description": "Сайт и личный кабинет для бронирования индивидуальных и групповых туров в Санкт-Петербурге",
+      "video": "guides.mp4",
+      "categories": ["E-commerce"]
+    }
+  ]
+}
