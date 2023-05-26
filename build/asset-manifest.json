@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cloudmill.2.0-public/build/static/css/main.aebb7b68.css",
-    "main.js": "/cloudmill.2.0-public/build/static/js/main.1951fe15.js",
+    "main.css": "/cloudmill.2.0-public/build/static/css/main.0b386dd4.css",
+    "main.js": "/cloudmill.2.0-public/build/static/js/main.c4a0d80b.js",
     "static/media/showreel.mp4": "/cloudmill.2.0-public/build/static/media/showreel.bb6ee296ee53ac959ca5.mp4",
     "static/media/novikov.mp4": "/cloudmill.2.0-public/build/static/media/novikov.60f7131982678c208c62.mp4",
     "static/media/pride.mp4": "/cloudmill.2.0-public/build/static/media/pride.037ec81b957d760a47f1.mp4",
@@ -25,7 +25,7 @@
     "static/media/wineberry.mp4": "/cloudmill.2.0-public/build/static/media/wineberry.d16e11d93247be64b2af.mp4",
     "static/media/showreel-bg.jpg": "/cloudmill.2.0-public/build/static/media/showreel-bg.6251daac632425a31d20.jpg",
     "static/media/alfa.mp4": "/cloudmill.2.0-public/build/static/media/alfa.5cef3099d39e0aea3085.mp4",
-    "static/media/intro.jpg": "/cloudmill.2.0-public/build/static/media/intro.52f27ec5e6912d72e607.jpg",
+    "static/media/intro.jpg": "/cloudmill.2.0-public/build/static/media/intro.d8862638b24bb7909eb4.jpg",
     "static/media/chl.mp4": "/cloudmill.2.0-public/build/static/media/chl.9134a7bb42115ea8810f.mp4",
     "static/media/photo.svg": "/cloudmill.2.0-public/build/static/media/photo.0874a387d9aa2b58d292cbb5e20b96d4.svg",
     "static/media/welldone.jpg": "/cloudmill.2.0-public/build/static/media/welldone.89a3e59f9959ad81e57a.jpg",
@@ -100,11 +100,11 @@
     "static/media/plus.svg": "/cloudmill.2.0-public/build/static/media/plus.c4431d88d9a8a2c273e6a4f99cb6e88b.svg",
     "static/media/decor.svg": "/cloudmill.2.0-public/build/static/media/decor.a799b11d3dc8ec824cebcbdc92261b61.svg",
     "static/media/play.svg": "/cloudmill.2.0-public/build/static/media/play.c66a46048f5f915f532b1467f043f6e2.svg",
-    "main.aebb7b68.css.map": "/cloudmill.2.0-public/build/static/css/main.aebb7b68.css.map",
-    "main.1951fe15.js.map": "/cloudmill.2.0-public/build/static/js/main.1951fe15.js.map"
+    "main.0b386dd4.css.map": "/cloudmill.2.0-public/build/static/css/main.0b386dd4.css.map",
+    "main.c4a0d80b.js.map": "/cloudmill.2.0-public/build/static/js/main.c4a0d80b.js.map"
   },
   "entrypoints": [
-    "static/css/main.aebb7b68.css",
-    "static/js/main.1951fe15.js"
+    "static/css/main.0b386dd4.css",
+    "static/js/main.c4a0d80b.js"
   ]
 }
