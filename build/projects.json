@@ -1,18 +1,6 @@
 {
   "main": [
     { 
-      "src": "resp.webp", 
-      "title": "Респираторный Комплекс", 
-      "description": "Сайт производителя фильтрующих респираторов", 
-      "awards": [
-        {
-          "name": "Золотой Сайт",
-          "count": 3
-        }
-      ],
-      "video": "resp.mp4"
-    },
-    { 
       "src": "novikov.webp", 
       "title": "Novikov Group", 
       "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
@@ -22,49 +10,8 @@
           "count": 2
         }
       ],
-      "video": "novikov.mp4"
-    },
-    { 
-      "src": "epigen.webp", 
-      "title": "Эпиген Интим", 
-      "description": "Сайт линии средств для женского интимного здоровья", 
-      "awards": [
-        {
-          "name": "Золотой сайт",
-          "count": 2
-        },
-        {
-          "name": "CSS Design Awards",
-          "count": 1
-        }
-      ],
-      "video": "epigen.mp4"
-    },
-    { 
-      "src": "akvasink.webp", 
-      "title": "Akvasink", 
-      "description": "Интернет-магазин сантехники",
-      "video": "akvasink.mp4"
-    },
-    { 
-      "src": "chl.webp", 
-      "title": "Чистая Линия", 
-      "description": "Корпоративный сайт и каталог производителя мороженого ", 
-      "awards": [
-        {
-          "name": "Рейтинг Рунета",
-          "count": 2
-        },
-        {
-          "name": "Tagline Awards",
-          "count": 2
-        },
-        {
-          "name": "CSS Design Awards",
-          "count": 1
-        }
-      ],
-      "video": "chl.mp4"
+      "video": "novikov.mp4",
+      "categories": ["Retail", "E-commerce"]
     },
     { 
       "src": "gmz.webp", 
@@ -92,10 +39,9 @@
           "count": 1
         }
       ],
-      "video": "gmz.mp4"
-    }
-  ],
-  "projects": [
+      "video": "gmz.mp4",
+      "categories": ["FMCG", "Retail", "Промышленность"]
+    },
     { 
       "src": "gel4u.webp", 
       "title": "GEL4U", 
@@ -109,6 +55,43 @@
       "video": "gel4u.mp4",
       "categories": ["Retail", "E-commerce"]
     },
+    { 
+      "src": "chl.webp", 
+      "title": "Чистая Линия", 
+      "description": "Корпоративный сайт и каталог производителя мороженого ", 
+      "awards": [
+        {
+          "name": "Рейтинг Рунета",
+          "count": 2
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 2
+        },
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "chl.mp4",
+      "categories": ["FMCG", "Retail", "Промышленность"]
+    },
+    { 
+      "src": "akvasink.webp", 
+      "title": "Akvasink", 
+      "description": "Интернет-магазин сантехники",
+      "video": "akvasink.mp4",
+      "categories": ["E-commerce", "Retail"]
+    },
+    { 
+      "src": "greenland.webp", 
+      "title": "Greenland", 
+      "description": "Интернет-магазин международной компании по продаже дизайнерских кашпо",
+      "video": "greenland.mp4",
+      "categories": ["E-commerce", "Retail", "Промышленность"]
+    }
+  ],
+  "projects": [
     { 
       "src": "resp.webp", 
       "title": "Респираторный Комплекс", 
@@ -136,51 +119,6 @@
       "categories": ["Retail", "E-commerce"]
     },
     { 
-      "src": "epigen.webp", 
-      "title": "Эпиген Интим", 
-      "description": "Сайт линии средств для женского интимного здоровья", 
-      "awards": [
-        {
-          "name": "Золотой сайт",
-          "count": 2
-        },
-        {
-          "name": "CSS Design Awards",
-          "count": 1
-        }
-      ],
-      "video": "epigen.mp4",
-      "categories": ["FMCG", "Фарма"]
-    },
-    { 
-      "src": "chl.webp", 
-      "title": "Чистая Линия", 
-      "description": "Корпоративный сайт и каталог производителя мороженого ", 
-      "awards": [
-        {
-          "name": "Рейтинг Рунета",
-          "count": 2
-        },
-        {
-          "name": "Tagline Awards",
-          "count": 2
-        },
-        {
-          "name": "CSS Design Awards",
-          "count": 1
-        }
-      ],
-      "video": "chl.mp4",
-      "categories": ["FMCG", "Retail", "Промышленность"]
-    },
-    { 
-      "src": "slt.webp", 
-      "title": "СЛТ-Аква", 
-      "description": "Сайт для российского бренда производителя полипропиленовых труб", 
-      "video": "gmz.mp4",
-      "categories": ["FMCG", "Retail", "Промышленность"]
-    },
-    { 
       "src": "gmz.webp", 
       "title": "Гиагинский молочный завод", 
       "description": "Корпоративный сайт и каталог производителя молочной продукции", 
@@ -210,24 +148,82 @@
       "categories": ["FMCG", "Retail", "Промышленность"]
     },
     { 
-      "src": "pride.webp", 
-      "title": "Pride", 
-      "description": "Интернет-магазин поставщика профессионального инструмента и автохимии", 
+      "src": "gel4u.webp", 
+      "title": "GEL4U", 
+      "description": "Дизайн интернет-магазина дистрибьютора спортивного питания", 
       "awards": [
         {
-          "name": "Tagline Awards",
+          "name": "Золотой Сайт",
+          "count": 3
+        }
+      ],
+      "video": "gel4u.mp4",
+      "categories": ["Retail", "E-commerce"]
+    },
+    { 
+      "src": "chl.webp", 
+      "title": "Чистая Линия", 
+      "description": "Корпоративный сайт и каталог производителя мороженого ", 
+      "awards": [
+        {
+          "name": "Рейтинг Рунета",
           "count": 2
         },
         {
-          "name": "AWWWARDS",
-          "count": 1
+          "name": "Tagline Awards",
+          "count": 2
         },
         {
           "name": "CSS Design Awards",
           "count": 1
         }
       ],
-      "video": "pride.mp4",
+      "video": "chl.mp4",
+      "categories": ["FMCG", "Retail", "Промышленность"]
+    },
+    { 
+      "src": "akvasink.webp", 
+      "title": "Akvasink", 
+      "description": "Интернет-магазин сантехники",
+      "video": "akvasink.mp4",
+      "categories": ["E-commerce", "Retail"]
+    },
+    { 
+      "src": "greenland.webp", 
+      "title": "Greenland", 
+      "description": "Интернет-магазин международной компании по продаже дизайнерских кашпо",
+      "video": "greenland.mp4",
+      "categories": ["E-commerce", "Retail", "Промышленность"]
+    },
+    { 
+      "src": "salini.webp", 
+      "title": "Salini", 
+      "description": "Сайт итальянского бренда сантехники премиум-класса", 
+      "video": "salini.mp4",
+      "categories": ["Retail", "E-commerce", "Промышленность"]
+    },
+    { 
+      "src": "epigen.webp", 
+      "title": "Эпиген Интим", 
+      "description": "Сайт линии средств для женского интимного здоровья", 
+      "awards": [
+        {
+          "name": "Золотой сайт",
+          "count": 2
+        },
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "epigen.mp4",
+      "categories": ["FMCG", "Фарма"]
+    },
+    { 
+      "src": "wineberry.webp", 
+      "title": "Wineberry", 
+      "description": "Интернет-магазин и личный кабинет дистрибьютера алкогольной продукции", 
+      "video": "wineberry.mp4",
       "categories": ["Retail", "E-commerce"]
     },
     { 
@@ -236,13 +232,6 @@
       "description": "No-code-разработка сайта платформы голосового ассистента", 
       "video": "alan.mp4",
       "categories": ["IT"]
-    },
-    { 
-      "src": "wineberry.webp", 
-      "title": "Wineberry", 
-      "description": "Интернет-магазин и личный кабинет дистрибьютера алкогольной продукции", 
-      "video": "wineberry.mp4",
-      "categories": ["Retail", "E-commerce"]
     },
     { 
       "src": "erga.webp", 
@@ -263,26 +252,6 @@
       "description": "Cайт производителя скважинного оборудования", 
       "video": "alfa.mp4",
       "categories": ["Промышленность"]
-    },
-    { 
-      "src": "theatre.webp", 
-      "title": "Театр балета Бориса Эйфмана", 
-      "description": "Дизайн сайта для государственного академического театра Бориса Эйфмана", 
-      "awards": [
-        {
-          "name": "Behance",
-          "count": 1
-        }
-      ],
-      "video": "theatre.mp4",
-      "categories": []
-    },
-    { 
-      "src": "salini.webp", 
-      "title": "Salini", 
-      "description": "Сайт итальянского бренда сантехники премиум-класса", 
-      "video": "salini.mp4",
-      "categories": ["Retail", "E-commerce", "Промышленность"]
     },
     { 
       "src": "welldone.webp", 
@@ -306,11 +275,66 @@
       "categories": ["FMCG", "Retail"]
     },
     { 
-      "src": "akvasink.webp", 
-      "title": "Akvasink", 
-      "description": "Интернет-магазин сантехники",
-      "video": "akvasink.mp4",
-      "categories": ["E-commerce", "Retail"]
+      "src": "theatre.webp", 
+      "title": "Театр балета Бориса Эйфмана", 
+      "description": "Дизайн сайта для государственного академического театра Бориса Эйфмана", 
+      "awards": [
+        {
+          "name": "Behance",
+          "count": 1
+        }
+      ],
+      "video": "theatre.mp4",
+      "categories": []
+    },
+    { 
+      "src": "pride.webp", 
+      "title": "Pride", 
+      "description": "Интернет-магазин поставщика профессионального инструмента и автохимии", 
+      "awards": [
+        {
+          "name": "Tagline Awards",
+          "count": 2
+        },
+        {
+          "name": "AWWWARDS",
+          "count": 1
+        },
+        {
+          "name": "CSS Design Awards",
+          "count": 1
+        }
+      ],
+      "video": "pride.mp4",
+      "categories": ["Retail", "E-commerce"]
+    },
+    { 
+      "src": "fkl.webp", 
+      "title": "FKL", 
+      "description": "Интернет-магазин генерального дистрибьютора завода FKL на территории России и СНГ",
+      "video": "fkl.mp4",
+      "categories": ["E-commerce", "Retail", "Промышленность"]
+    },
+    { 
+      "src": "guides.webp", 
+      "title": "Best Guides", 
+      "description": "Сайт и личный кабинет для бронирования индивидуальных и групповых туров в Санкт-Петербурге",
+      "video": "guides.mp4",
+      "categories": ["E-commerce"]
+    },
+    { 
+      "src": "dubki.webp", 
+      "title": "Дубки", 
+      "description": "Cайт и приложение c доставкой для торговой сети продуктовых магазинов «у дома»",
+      "video": "dubki.mp4",
+      "categories": ["E-commerce", "Retail", "FMCG"]
+    },
+    { 
+      "src": "krass.webp", 
+      "title": "Krass", 
+      "description": "Cайт производителя строительных герметиков, монтажных пен, клеев и уплотнителей",
+      "video": "krass.mp4",
+      "categories": ["FMCG", "Retail"]
     },
     { 
       "src": "ssp.webp", 
@@ -326,20 +350,6 @@
       "categories": []
     },
     { 
-      "src": "fkl.webp", 
-      "title": "FKL", 
-      "description": "Интернет-магазин генерального дистрибьютора завода FKL на территории России и СНГ",
-      "video": "fkl.mp4",
-      "categories": ["E-commerce", "Retail", "Промышленность"]
-    },
-    { 
-      "src": "krass.webp", 
-      "title": "Krass", 
-      "description": "Cайт производителя строительных герметиков, монтажных пен, клеев и уплотнителей",
-      "video": "krass.mp4",
-      "categories": ["FMCG", "Retail"]
-    },
-    { 
       "src": "love.webp", 
       "title": "Люди Любят", 
       "description": "Сайт сети кафе-пекарен в Санкт-Петерубр с функциональностью онлайн-заказа",
@@ -347,18 +357,11 @@
       "categories": ["E-commerce", "Retail", "FMCG"]
     },
     { 
-      "src": "dubki.webp", 
-      "title": "Дубки", 
-      "description": "Cайт и приложение c доставкой для торговой сети продуктовых магазинов «у дома»",
-      "video": "dubki.mp4",
-      "categories": ["E-commerce", "Retail", "FMCG"]
-    },
-    { 
-      "src": "guides.webp", 
-      "title": "Best Guides", 
-      "description": "Сайт и личный кабинет для бронирования индивидуальных и групповых туров в Санкт-Петербурге",
-      "video": "guides.mp4",
-      "categories": ["E-commerce"]
+      "src": "slt.webp", 
+      "title": "СЛТ-Аква", 
+      "description": "Сайт для российского бренда производителя полипропиленовых труб", 
+      "video": "gmz.mp4",
+      "categories": ["FMCG", "Retail", "Промышленность"]
     }
   ]
 }
