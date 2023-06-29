@@ -355,13 +355,6 @@
       "description": "Сайт сети кафе-пекарен в Санкт-Петерубр с функциональностью онлайн-заказа",
       "video": "love.mp4",
       "categories": ["E-commerce", "Retail", "FMCG"]
-    },
-    { 
-      "src": "slt.webp", 
-      "title": "СЛТ-Аква", 
-      "description": "Сайт для российского бренда производителя полипропиленовых труб", 
-      "video": "gmz.mp4",
-      "categories": ["FMCG", "Retail", "Промышленность"]
     }
   ]
 }
