@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cloudmill.2.0-public/build/static/css/main.23b11b71.css",
-    "main.js": "/cloudmill.2.0-public/build/static/js/main.148ee39c.js",
+    "main.js": "/cloudmill.2.0-public/build/static/js/main.10f45a0e.js",
     "static/media/showreel.mp4": "/cloudmill.2.0-public/build/static/media/showreel.575643416bad3c7fc437.mp4",
     "static/media/novikov.mp4": "/cloudmill.2.0-public/build/static/media/novikov.60f7131982678c208c62.mp4",
     "static/media/features.mp4": "/cloudmill.2.0-public/build/static/media/features.187120fa324735b383e4.mp4",
@@ -36,11 +36,9 @@
     "static/media/love.jpg": "/cloudmill.2.0-public/build/static/media/love.39a8b477cbf3595ed4aa.jpg",
     "static/media/salini.mp4": "/cloudmill.2.0-public/build/static/media/salini.1d1a6f746eb0fc78a9dc.mp4",
     "static/media/salini.jpg": "/cloudmill.2.0-public/build/static/media/salini.eff1e198194fd5ed37b5.jpg",
-    "static/media/awards-1.jpg": "/cloudmill.2.0-public/build/static/media/awards-1.f4f156e18c8604aee24d.jpg",
     "static/media/fkl.jpg": "/cloudmill.2.0-public/build/static/media/fkl.f088ae4329aa049845ac.jpg",
     "static/media/akvasink.mp4": "/cloudmill.2.0-public/build/static/media/akvasink.e3badced0fef34ad0696.mp4",
     "static/media/alan.jpg": "/cloudmill.2.0-public/build/static/media/alan.a67684fc46a29f16fa1b.jpg",
-    "static/media/awards-2.jpg": "/cloudmill.2.0-public/build/static/media/awards-2.a2747b227903ac666c75.jpg",
     "static/media/greenland.jpg": "/cloudmill.2.0-public/build/static/media/greenland.77a99c8b8caa9c711655.jpg",
     "static/media/krass.jpg": "/cloudmill.2.0-public/build/static/media/krass.717906f84a7e48a1310a.jpg",
     "static/media/resp.jpg": "/cloudmill.2.0-public/build/static/media/resp.3e25e0eb6d8759178659.jpg",
@@ -51,10 +49,8 @@
     "static/media/awards-bg.jpg": "/cloudmill.2.0-public/build/static/media/awards-bg.81011b08bed52f1dbe81.jpg",
     "static/media/epigen.jpg": "/cloudmill.2.0-public/build/static/media/epigen.29b3246aa58d36e6419e.jpg",
     "static/media/wineberry.jpg": "/cloudmill.2.0-public/build/static/media/wineberry.c4a234df2d08b3f330ea.jpg",
-    "static/media/awards-1.png": "/cloudmill.2.0-public/build/static/media/awards-1.17975d9cb3a653df4607.png",
     "static/media/gmz.jpg": "/cloudmill.2.0-public/build/static/media/gmz.73af908bc42564e7b291.jpg",
     "static/media/ssp.jpg": "/cloudmill.2.0-public/build/static/media/ssp.d4f819934b3216329966.jpg",
-    "static/media/awards-2.png": "/cloudmill.2.0-public/build/static/media/awards-2.ec57d9eee4d407835bcd.png",
     "static/media/pride.jpg": "/cloudmill.2.0-public/build/static/media/pride.3ac8b605a1a5d5769077.jpg",
     "static/media/guides.webp": "/cloudmill.2.0-public/build/static/media/guides.a93b5e476beb0caebf58.webp",
     "static/media/erga.jpg": "/cloudmill.2.0-public/build/static/media/erga.c197059f3ffbe2088164.jpg",
@@ -88,8 +84,10 @@
     "static/media/service-7.svg": "/cloudmill.2.0-public/build/static/media/service-7.62565e2181b2d09bdc81b17f3c1717e8.svg",
     "static/media/icecream.jpg": "/cloudmill.2.0-public/build/static/media/icecream.239eba4b0824fae4b4b7.jpg",
     "static/media/eifman.jpg": "/cloudmill.2.0-public/build/static/media/eifman.a39f2a93aa5e5ed9384d.jpg",
+    "static/media/awards-2.webp": "/cloudmill.2.0-public/build/static/media/awards-2.5001825d1c77791bdfc8.webp",
     "static/media/service-4.svg": "/cloudmill.2.0-public/build/static/media/service-4.e30d9df8009364e69da5daafa4de413d.svg",
     "static/media/service-5.svg": "/cloudmill.2.0-public/build/static/media/service-5.4a10264a6a708c297c4c0b205badd08f.svg",
+    "static/media/awards-1.webp": "/cloudmill.2.0-public/build/static/media/awards-1.cfffdcba3f8e24fd6bcb.webp",
     "static/media/akvasink.webp": "/cloudmill.2.0-public/build/static/media/akvasink.c35417c8b06130427471.webp",
     "static/media/avatar.jpg": "/cloudmill.2.0-public/build/static/media/avatar.a89328534162968a9d37.jpg",
     "static/media/lukoil.jpg": "/cloudmill.2.0-public/build/static/media/lukoil.122e3da096763262ef24.jpg",
@@ -128,10 +126,10 @@
     "static/media/decor.svg": "/cloudmill.2.0-public/build/static/media/decor.a799b11d3dc8ec824cebcbdc92261b61.svg",
     "static/media/play.svg": "/cloudmill.2.0-public/build/static/media/play.c66a46048f5f915f532b1467f043f6e2.svg",
     "main.23b11b71.css.map": "/cloudmill.2.0-public/build/static/css/main.23b11b71.css.map",
-    "main.148ee39c.js.map": "/cloudmill.2.0-public/build/static/js/main.148ee39c.js.map"
+    "main.10f45a0e.js.map": "/cloudmill.2.0-public/build/static/js/main.10f45a0e.js.map"
   },
   "entrypoints": [
     "static/css/main.23b11b71.css",
-    "static/js/main.148ee39c.js"
+    "static/js/main.10f45a0e.js"
   ]
 }
