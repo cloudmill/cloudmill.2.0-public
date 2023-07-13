@@ -6,6 +6,14 @@
       "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
       "awards": [
         {
+          "name": "Золотой Сайт",
+          "count": 1
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 2
+        },
+        {
           "name": "Behance",
           "count": 2
         }
@@ -100,6 +108,10 @@
         {
           "name": "Золотой Сайт",
           "count": 3
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 1
         }
       ],
       "video": "resp.mp4",
@@ -110,6 +122,14 @@
       "title": "Novikov Group", 
       "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
       "awards": [
+        {
+          "name": "Золотой Сайт",
+          "count": 1
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 2
+        },
         {
           "name": "Behance",
           "count": 2
@@ -230,6 +250,16 @@
       "src": "alan.webp", 
       "title": "Alan AI", 
       "description": "No-code-разработка сайта платформы голосового ассистента", 
+      "awards": [
+        {
+          "name": "Рейтинг Рунета",
+          "count": 1
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 2
+        }
+      ],
       "video": "alan.mp4",
       "categories": ["IT"]
     },
@@ -281,7 +311,7 @@
       "awards": [
         {
           "name": "Behance",
-          "count": 1
+          "count": 2
         }
       ],
       "video": "theatre.mp4",
