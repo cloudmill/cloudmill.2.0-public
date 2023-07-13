@@ -237,7 +237,7 @@
         }
       ],
       "video": "epigen.mp4",
-      "categories": ["FMCG", "Фарма"]
+      "categories": ["Retail", "FMCG", "Фарма"]
     },
     { 
       "src": "wineberry.webp", 
@@ -357,7 +357,7 @@
       "title": "Дубки", 
       "description": "Cайт и приложение c доставкой для торговой сети продуктовых магазинов «у дома»",
       "video": "dubki.mp4",
-      "categories": ["E-commerce", "Retail", "FMCG"]
+      "categories": ["Retail", "FMCG"]
     },
     { 
       "src": "krass.webp", 
@@ -378,6 +378,14 @@
       ],
       "video": "ssp.mp4",
       "categories": []
+    },
+    { 
+      "src": "mmz.webp", 
+      "title": "Мытищинский молочный завод", 
+      "description": "Интернет-магазин генерального дистрибьютора завода FKL на территории России и СНГ",
+      "awards": [],
+      "video": "mmz.mp4",
+      "categories": ["FMCG", "Retail"]
     },
     { 
       "src": "love.webp", 
