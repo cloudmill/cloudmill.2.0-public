@@ -6,12 +6,16 @@
       "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
       "awards": [
         {
-          "name": "Золотой Сайт",
-          "count": 1
+          "name": "Сайт ресторана/кафе/бара",
+          "icon": "gold"
         },
         {
-          "name": "Tagline Awards",
-          "count": 2
+          "name": "Лучший промосайт",
+          "icon": "bronze"
+        },
+        {
+          "name": "Лучший корпоративный сайт",
+          "icon": "bronze"
         },
         {
           "name": "Behance",
@@ -27,16 +31,36 @@
       "description": "Корпоративный сайт и каталог производителя молочной продукции", 
       "awards": [
         {
-          "name": "Рейтинг Рунета",
-          "count": 2
+          "name": "Потребительские товары и торговля",
+          "icon": "gold"
         },
         {
-          "name": "Tagline Awards",
-          "count": 2
+          "name": "Лучший сайт в Южном ФО",
+          "icon": "gold"
         },
         {
-          "name": "Золотой сайт",
-          "count": 4
+          "name": "B2С, бизнес для потребителя",
+          "icon": "silver"
+        },
+        {
+          "name": "Сайт производителя FMCG",
+          "icon": "silver"
+        },
+        {
+          "name": "Лучший сайт для потребителей",
+          "icon": "silver"
+        },
+        {
+          "name": "Промо-сайт бренда FMCG",
+          "icon": "bronze"
+        },
+        {
+          "name": "Лучшая иллюстрация",
+          "icon": "bronze"
+        },
+        {
+          "name": "Лучшее интерактивное решение",
+          "icon": "bronze"
         },
         {
           "name": "AWWWARDS",
@@ -54,12 +78,6 @@
       "src": "gel4u.webp", 
       "title": "GEL4U", 
       "description": "Дизайн интернет-магазина дистрибьютора спортивного питания", 
-      "awards": [
-        {
-          "name": "Золотой Сайт",
-          "count": 3
-        }
-      ],
       "video": "gel4u.mp4",
       "categories": ["Retail", "E-commerce"]
     },
@@ -69,12 +87,16 @@
       "description": "Корпоративный сайт и каталог производителя мороженого ", 
       "awards": [
         {
-          "name": "Рейтинг Рунета",
-          "count": 2
+          "name": "Потребительские товары и торговля",
+          "icon": "silver"
         },
         {
-          "name": "Tagline Awards",
-          "count": 2
+          "name": "Лучший сайт FMCG бренда",
+          "icon": "silver"
+        },
+        {
+          "name": "Лучший сайт",
+          "icon": "silver"
         },
         {
           "name": "CSS Design Awards",
@@ -106,12 +128,20 @@
       "description": "Сайт производителя фильтрующих респираторов", 
       "awards": [
         {
-          "name": "Золотой Сайт",
-          "count": 3
+          "name": "Сайт промышленной/ТЭК компании или дилера",
+          "icon": "gold"
         },
         {
-          "name": "Tagline Awards",
-          "count": 1
+          "name": "Лучшее юзабилити",
+          "icon": "silver"
+        },
+        {
+          "name": "Лучший сайт для бизнеса",
+          "icon": "silver"
+        },
+        {
+          "name": "Лучший сайт в Северо-Западном ФО",
+          "icon": "gold"
         }
       ],
       "video": "resp.mp4",
@@ -123,12 +153,16 @@
       "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
       "awards": [
         {
-          "name": "Золотой Сайт",
-          "count": 1
+          "name": "Сайт ресторана/кафе/бара",
+          "icon": "gold"
         },
         {
-          "name": "Tagline Awards",
-          "count": 2
+          "name": "Лучший промосайт",
+          "icon": "bronze"
+        },
+        {
+          "name": "Лучший корпоративный сайт",
+          "icon": "bronze"
         },
         {
           "name": "Behance",
@@ -144,16 +178,36 @@
       "description": "Корпоративный сайт и каталог производителя молочной продукции", 
       "awards": [
         {
-          "name": "Рейтинг Рунета",
-          "count": 2
+          "name": "Потребительские товары и торговля",
+          "icon": "gold"
         },
         {
-          "name": "Tagline Awards",
-          "count": 2
+          "name": "Лучший сайт в Южном ФО",
+          "icon": "gold"
         },
         {
-          "name": "Золотой сайт",
-          "count": 4
+          "name": "B2С, бизнес для потребителя",
+          "icon": "silver"
+        },
+        {
+          "name": "Сайт производителя FMCG",
+          "icon": "silver"
+        },
+        {
+          "name": "Лучший сайт для потребителей",
+          "icon": "silver"
+        },
+        {
+          "name": "Промо-сайт бренда FMCG",
+          "icon": "bronze"
+        },
+        {
+          "name": "Лучшая иллюстрация",
+          "icon": "bronze"
+        },
+        {
+          "name": "Лучшее интерактивное решение",
+          "icon": "bronze"
         },
         {
           "name": "AWWWARDS",
@@ -171,12 +225,6 @@
       "src": "gel4u.webp", 
       "title": "GEL4U", 
       "description": "Дизайн интернет-магазина дистрибьютора спортивного питания", 
-      "awards": [
-        {
-          "name": "Золотой Сайт",
-          "count": 3
-        }
-      ],
       "video": "gel4u.mp4",
       "categories": ["Retail", "E-commerce"]
     },
@@ -186,12 +234,16 @@
       "description": "Корпоративный сайт и каталог производителя мороженого ", 
       "awards": [
         {
-          "name": "Рейтинг Рунета",
-          "count": 2
+          "name": "Потребительские товары и торговля",
+          "icon": "silver"
         },
         {
-          "name": "Tagline Awards",
-          "count": 2
+          "name": "Лучший сайт FMCG бренда",
+          "icon": "silver"
+        },
+        {
+          "name": "Лучший сайт",
+          "icon": "silver"
         },
         {
           "name": "CSS Design Awards",
@@ -228,8 +280,12 @@
       "description": "Сайт линии средств для женского интимного здоровья", 
       "awards": [
         {
-          "name": "Золотой сайт",
-          "count": 2
+          "name": "Сайт фармацевтической компании",
+          "icon": "gold"
+        },
+        {
+          "name": "Красота и здоровье",
+          "icon": "silver"
         },
         {
           "name": "CSS Design Awards",
@@ -252,12 +308,16 @@
       "description": "No-code-разработка сайта платформы голосового ассистента", 
       "awards": [
         {
-          "name": "Рейтинг Рунета",
-          "count": 1
+          "name": "Лучший сайт телеком/IT/интернет-компании",
+          "icon": "silver"
         },
         {
-          "name": "Tagline Awards",
-          "count": 2
+          "name": "Сайты на конструкторе",
+          "icon": "bronze"
+        },
+        {
+          "name": "«Не выходя из дома», лучший сайт",
+          "icon": "bronze"
         }
       ],
       "video": "alan.mp4",
@@ -269,8 +329,8 @@
       "description": "Cайт производителя магнитных систем и промышленного оборудования", 
       "awards": [
         {
-          "name": "Tagline Awards",
-          "count": 1
+          "name": "Лучший сайт о промышленности",
+          "icon": "gold"
         }
       ],
       "video": "erga.mp4",
@@ -323,8 +383,12 @@
       "description": "Интернет-магазин поставщика профессионального инструмента и автохимии", 
       "awards": [
         {
-          "name": "Tagline Awards",
-          "count": 2
+          "name": "Лучший ритейл-сайт",
+          "icon": "gold"
+        },
+        {
+          "name": "Лучший сайт для авто- и мотобизнеса",
+          "icon": "silver"
         },
         {
           "name": "AWWWARDS",
