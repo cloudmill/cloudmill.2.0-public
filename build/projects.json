@@ -2,6 +2,7 @@
   "main": [
     { 
       "src": "novikov.webp", 
+      "href": "https://cases.cloudmill.ru/novikov",
       "title": "Novikov Group", 
       "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
       "awards": [
@@ -23,6 +24,7 @@
     },
     { 
       "src": "gmz.webp", 
+      "href": "https://cases.cloudmill.ru/gmz",
       "title": "Гиагинский молочный завод", 
       "description": "Корпоративный сайт и каталог производителя молочной продукции", 
       "awards": [
@@ -61,6 +63,7 @@
     { 
       "src": "gel4u.webp", 
       "title": "GEL4U", 
+      "href": "https://cases.cloudmill.ru/gel4u",
       "description": "Дизайн интернет-магазина дистрибьютора спортивного питания", 
       "video": "gel4u.mp4",
       "categories": ["Retail", "E-commerce"]
@@ -68,6 +71,7 @@
     { 
       "src": "chl.webp", 
       "title": "Чистая Линия", 
+      "href": "https://cases.cloudmill.ru/icecream",
       "description": "Корпоративный сайт и каталог производителя мороженого ", 
       "awards": [
         {
@@ -96,6 +100,7 @@
     },
     { 
       "src": "akvasink.webp", 
+      "href": "https://cases.cloudmill.ru/akvasink",
       "title": "Akvasink", 
       "description": "Интернет-магазин сантехники",
       "video": "akvasink.mp4",
@@ -103,6 +108,7 @@
     },
     { 
       "src": "greenland.webp", 
+      "href": "https://cases.cloudmill.ru/greenland",
       "title": "Greenland", 
       "description": "Интернет-магазин международной компании по продаже дизайнерских кашпо",
       "video": "greenland.mp4",
@@ -111,7 +117,8 @@
   ],
   "projects": [
     { 
-      "src": "resp.webp", 
+      "src": "resp.webp",
+      "href": "https://cases.cloudmill.ru/resp",
       "title": "Респираторный Комплекс", 
       "description": "Сайт производителя фильтрующих респираторов", 
       "awards": [
@@ -137,6 +144,7 @@
     },
     { 
       "src": "novikov.webp", 
+      "href": "https://cases.cloudmill.ru/novikov",
       "title": "Novikov Group", 
       "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
       "awards": [
@@ -158,6 +166,7 @@
     },
     { 
       "src": "gmz.webp", 
+      "href": "https://cases.cloudmill.ru/gmz",
       "title": "Гиагинский молочный завод", 
       "description": "Корпоративный сайт и каталог производителя молочной продукции", 
       "awards": [
@@ -195,6 +204,7 @@
     },
     { 
       "src": "gel4u.webp", 
+      "href": "https://cases.cloudmill.ru/gel4u",
       "title": "GEL4U", 
       "description": "Дизайн интернет-магазина дистрибьютора спортивного питания", 
       "video": "gel4u.mp4",
@@ -202,6 +212,7 @@
     },
     { 
       "src": "chl.webp", 
+      "href": "https://cases.cloudmill.ru/icecream",
       "title": "Чистая Линия", 
       "description": "Корпоративный сайт и каталог производителя мороженого ", 
       "awards": [
@@ -231,6 +242,7 @@
     },
     { 
       "src": "akvasink.webp", 
+      "href": "https://cases.cloudmill.ru/akvasink",
       "title": "Akvasink", 
       "description": "Интернет-магазин сантехники",
       "video": "akvasink.mp4",
@@ -238,6 +250,7 @@
     },
     { 
       "src": "greenland.webp", 
+      "href": "https://cases.cloudmill.ru/greenland",
       "title": "Greenland", 
       "description": "Интернет-магазин международной компании по продаже дизайнерских кашпо",
       "video": "greenland.mp4",
@@ -245,6 +258,7 @@
     },
     { 
       "src": "salini.webp", 
+      "href": "https://cases.cloudmill.ru/salini",
       "title": "Salini", 
       "description": "Сайт итальянского бренда сантехники премиум-класса", 
       "video": "salini.mp4",
@@ -252,6 +266,7 @@
     },
     { 
       "src": "epigen.webp", 
+      "href": "https://cases.cloudmill.ru/epigen",
       "title": "Эпиген Интим", 
       "description": "Сайт линии средств для женского интимного здоровья", 
       "awards": [
@@ -273,6 +288,7 @@
     },
     { 
       "src": "wineberry.webp", 
+      "href": "https://cases.cloudmill.ru/wineberry",
       "title": "Wineberry", 
       "description": "Интернет-магазин и личный кабинет дистрибьютера алкогольной продукции", 
       "video": "wineberry.mp4",
@@ -280,6 +296,7 @@
     },
     { 
       "src": "alan.webp", 
+      "href": "https://cases.cloudmill.ru/alanai",
       "title": "Alan AI", 
       "description": "No-code-разработка сайта платформы голосового ассистента", 
       "awards": [
@@ -301,6 +318,7 @@
     },
     { 
       "src": "erga.webp", 
+      "href": "https://cases.cloudmill.ru/erga",
       "title": "ЭРГА", 
       "description": "Cайт производителя магнитных систем и промышленного оборудования", 
       "awards": [
@@ -314,6 +332,7 @@
     },
     { 
       "src": "alfa.webp", 
+      "href": "https://cases.cloudmill.ru/alfa",
       "title": "Альфа Горизонт", 
       "description": "Cайт производителя скважинного оборудования", 
       "video": "alfa.mp4",
@@ -321,6 +340,7 @@
     },
     { 
       "src": "welldone.webp", 
+      "href": "https://cases.cloudmill.ru/welldone",
       "title": "Welldone", 
       "description": "Промо-сайт бренда производителя растительного мяса", 
       "awards": [
@@ -350,6 +370,7 @@
     },
     { 
       "src": "theatre.webp", 
+      "href": "https://cases.cloudmill.ru/eifman",
       "title": "Театр балета Бориса Эйфмана", 
       "description": "Дизайн сайта для государственного академического театра Бориса Эйфмана", 
       "awards": [
@@ -363,6 +384,7 @@
     },
     { 
       "src": "pride.webp", 
+      "href": "https://cases.cloudmill.ru/pride",
       "title": "Pride", 
       "description": "Интернет-магазин поставщика профессионального инструмента и автохимии", 
       "awards": [
@@ -388,6 +410,7 @@
     },
     { 
       "src": "fkl.webp", 
+      "href": "https://cases.cloudmill.ru/fkl",
       "title": "FKL", 
       "description": "Интернет-магазин генерального дистрибьютора завода FKL на территории России и СНГ",
       "video": "fkl.mp4",
@@ -395,6 +418,7 @@
     },
     { 
       "src": "guides.webp", 
+      "href": "https://cases.cloudmill.ru/bestguides",
       "title": "Best Guides", 
       "description": "Сайт и личный кабинет для бронирования индивидуальных и групповых туров в Санкт-Петербурге",
       "video": "guides.mp4",
@@ -402,6 +426,7 @@
     },
     { 
       "src": "dubki.webp", 
+      "href": "https://cases.cloudmill.ru/dubki",
       "title": "Дубки", 
       "description": "Cайт и приложение c доставкой для торговой сети продуктовых магазинов «у дома»",
       "video": "dubki.mp4",
@@ -409,6 +434,7 @@
     },
     { 
       "src": "krass.webp", 
+      "href": "https://cases.cloudmill.ru/krass",
       "title": "Krass", 
       "description": "Cайт производителя строительных герметиков, монтажных пен, клеев и уплотнителей",
       "video": "krass.mp4",
@@ -416,6 +442,7 @@
     },
     { 
       "src": "ssp.webp", 
+      "href": "https://cases.cloudmill.ru/ssp",
       "title": "ССП-Консалт", 
       "description": "Сайт юридической компании",
       "awards": [
@@ -433,6 +460,7 @@
     },
     { 
       "src": "love.webp", 
+      "href": "https://cases.cloudmill.ru/ll",
       "title": "Люди Любят", 
       "description": "Сайт сети кафе-пекарен в Санкт-Петерубр с функциональностью онлайн-заказа",
       "video": "love.mp4",

@@ -2,20 +2,17 @@
   "main": [
     { 
       "src": "novikov.webp", 
+      "href": "https://cases.cloudmill.ru/novikov",
       "title": "Novikov Group", 
       "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
       "awards": [
         {
-          "name": "Сайт ресторана/кафе/бара",
+          "name": "Лучший сайт ресторана",
           "icon": "gold"
         },
         {
-          "name": "Лучший промосайт",
-          "icon": "bronze"
-        },
-        {
-          "name": "Лучший корпоративный сайт",
-          "icon": "bronze"
+          "name": "Tagline Awards",
+          "count": 2
         },
         {
           "name": "Behance",
@@ -27,40 +24,29 @@
     },
     { 
       "src": "gmz.webp", 
+      "href": "https://cases.cloudmill.ru/gmz",
       "title": "Гиагинский молочный завод", 
       "description": "Корпоративный сайт и каталог производителя молочной продукции", 
       "awards": [
         {
-          "name": "Потребительские товары и торговля",
+          "name": "Лучший сайт, потребительские товары",
           "icon": "gold"
         },
         {
-          "name": "Лучший сайт в Южном ФО",
+          "name": "Лучший сайт ЮФО",
           "icon": "gold"
         },
         {
-          "name": "B2С, бизнес для потребителя",
-          "icon": "silver"
+          "name": "Рейтинг Рунета",
+          "count": 2
         },
         {
-          "name": "Сайт производителя FMCG",
-          "icon": "silver"
+          "name": "Золотой сайт",
+          "count": 4
         },
         {
-          "name": "Лучший сайт для потребителей",
-          "icon": "silver"
-        },
-        {
-          "name": "Промо-сайт бренда FMCG",
-          "icon": "bronze"
-        },
-        {
-          "name": "Лучшая иллюстрация",
-          "icon": "bronze"
-        },
-        {
-          "name": "Лучшее интерактивное решение",
-          "icon": "bronze"
+          "name": "Tagline Awards",
+          "count": 2
         },
         {
           "name": "AWWWARDS",
@@ -77,6 +63,7 @@
     { 
       "src": "gel4u.webp", 
       "title": "GEL4U", 
+      "href": "https://cases.cloudmill.ru/gel4u",
       "description": "Дизайн интернет-магазина дистрибьютора спортивного питания", 
       "video": "gel4u.mp4",
       "categories": ["Retail", "E-commerce"]
@@ -84,19 +71,24 @@
     { 
       "src": "chl.webp", 
       "title": "Чистая Линия", 
+      "href": "https://cases.cloudmill.ru/icecream",
       "description": "Корпоративный сайт и каталог производителя мороженого ", 
       "awards": [
         {
-          "name": "Потребительские товары и торговля",
+          "name": "Лучший сайт, FMCG",
           "icon": "silver"
         },
         {
-          "name": "Лучший сайт FMCG бренда",
+          "name": "Лучший сайт, потребительские товары",
           "icon": "silver"
         },
         {
-          "name": "Лучший сайт",
-          "icon": "silver"
+          "name": "Рейтинг Рунета",
+          "count": 2
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 2
         },
         {
           "name": "CSS Design Awards",
@@ -108,6 +100,7 @@
     },
     { 
       "src": "akvasink.webp", 
+      "href": "https://cases.cloudmill.ru/akvasink",
       "title": "Akvasink", 
       "description": "Интернет-магазин сантехники",
       "video": "akvasink.mp4",
@@ -115,6 +108,7 @@
     },
     { 
       "src": "greenland.webp", 
+      "href": "https://cases.cloudmill.ru/greenland",
       "title": "Greenland", 
       "description": "Интернет-магазин международной компании по продаже дизайнерских кашпо",
       "video": "greenland.mp4",
@@ -123,25 +117,26 @@
   ],
   "projects": [
     { 
-      "src": "resp.webp", 
+      "src": "resp.webp",
+      "href": "https://cases.cloudmill.ru/resp",
       "title": "Респираторный Комплекс", 
       "description": "Сайт производителя фильтрующих респираторов", 
       "awards": [
         {
-          "name": "Сайт промышленной/ТЭК компании или дилера",
+          "name": "Лучший сайт, промышленность",
           "icon": "gold"
         },
         {
-          "name": "Лучшее юзабилити",
-          "icon": "silver"
-        },
-        {
-          "name": "Лучший сайт для бизнеса",
-          "icon": "silver"
-        },
-        {
-          "name": "Лучший сайт в Северо-Западном ФО",
+          "name": "Лучший сайт СЗФО",
           "icon": "gold"
+        },
+        {
+          "name": "Золотой сайт",
+          "count": 3
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 1
         }
       ],
       "video": "resp.mp4",
@@ -149,20 +144,17 @@
     },
     { 
       "src": "novikov.webp", 
+      "href": "https://cases.cloudmill.ru/novikov",
       "title": "Novikov Group", 
       "description": "Сайт ресторанного холдинга с функциональностью онлайн-заказа блюд", 
       "awards": [
         {
-          "name": "Сайт ресторана/кафе/бара",
+          "name": "Лучший сайт ресторана",
           "icon": "gold"
         },
         {
-          "name": "Лучший промосайт",
-          "icon": "bronze"
-        },
-        {
-          "name": "Лучший корпоративный сайт",
-          "icon": "bronze"
+          "name": "Tagline Awards",
+          "count": 2
         },
         {
           "name": "Behance",
@@ -174,40 +166,29 @@
     },
     { 
       "src": "gmz.webp", 
+      "href": "https://cases.cloudmill.ru/gmz",
       "title": "Гиагинский молочный завод", 
       "description": "Корпоративный сайт и каталог производителя молочной продукции", 
       "awards": [
         {
-          "name": "Потребительские товары и торговля",
+          "name": "Лучший сайт, потребительские товары",
           "icon": "gold"
         },
         {
-          "name": "Лучший сайт в Южном ФО",
+          "name": "Лучший сайт ЮФО",
           "icon": "gold"
         },
         {
-          "name": "B2С, бизнес для потребителя",
-          "icon": "silver"
+          "name": "Рейтинг Рунета",
+          "count": 2
         },
         {
-          "name": "Сайт производителя FMCG",
-          "icon": "silver"
+          "name": "Золотой сайт",
+          "count": 4
         },
         {
-          "name": "Лучший сайт для потребителей",
-          "icon": "silver"
-        },
-        {
-          "name": "Промо-сайт бренда FMCG",
-          "icon": "bronze"
-        },
-        {
-          "name": "Лучшая иллюстрация",
-          "icon": "bronze"
-        },
-        {
-          "name": "Лучшее интерактивное решение",
-          "icon": "bronze"
+          "name": "Tagline Awards",
+          "count": 2
         },
         {
           "name": "AWWWARDS",
@@ -223,6 +204,7 @@
     },
     { 
       "src": "gel4u.webp", 
+      "href": "https://cases.cloudmill.ru/gel4u",
       "title": "GEL4U", 
       "description": "Дизайн интернет-магазина дистрибьютора спортивного питания", 
       "video": "gel4u.mp4",
@@ -230,20 +212,25 @@
     },
     { 
       "src": "chl.webp", 
+      "href": "https://cases.cloudmill.ru/icecream",
       "title": "Чистая Линия", 
       "description": "Корпоративный сайт и каталог производителя мороженого ", 
       "awards": [
         {
-          "name": "Потребительские товары и торговля",
+          "name": "Лучший сайт, FMCG",
           "icon": "silver"
         },
         {
-          "name": "Лучший сайт FMCG бренда",
+          "name": "Лучший сайт, потребительские товары",
           "icon": "silver"
         },
         {
-          "name": "Лучший сайт",
-          "icon": "silver"
+          "name": "Рейтинг Рунета",
+          "count": 2
+        },
+        {
+          "name": "Tagline Awards",
+          "count": 2
         },
         {
           "name": "CSS Design Awards",
@@ -255,6 +242,7 @@
     },
     { 
       "src": "akvasink.webp", 
+      "href": "https://cases.cloudmill.ru/akvasink",
       "title": "Akvasink", 
       "description": "Интернет-магазин сантехники",
       "video": "akvasink.mp4",
@@ -262,6 +250,7 @@
     },
     { 
       "src": "greenland.webp", 
+      "href": "https://cases.cloudmill.ru/greenland",
       "title": "Greenland", 
       "description": "Интернет-магазин международной компании по продаже дизайнерских кашпо",
       "video": "greenland.mp4",
@@ -269,6 +258,7 @@
     },
     { 
       "src": "salini.webp", 
+      "href": "https://cases.cloudmill.ru/salini",
       "title": "Salini", 
       "description": "Сайт итальянского бренда сантехники премиум-класса", 
       "video": "salini.mp4",
@@ -276,16 +266,17 @@
     },
     { 
       "src": "epigen.webp", 
+      "href": "https://cases.cloudmill.ru/epigen",
       "title": "Эпиген Интим", 
       "description": "Сайт линии средств для женского интимного здоровья", 
       "awards": [
         {
-          "name": "Сайт фармацевтической компании",
+          "name": "Лучший сайт фармацевтической компании",
           "icon": "gold"
         },
         {
-          "name": "Красота и здоровье",
-          "icon": "silver"
+          "name": "Золотой сайт",
+          "count": 2
         },
         {
           "name": "CSS Design Awards",
@@ -297,6 +288,7 @@
     },
     { 
       "src": "wineberry.webp", 
+      "href": "https://cases.cloudmill.ru/wineberry",
       "title": "Wineberry", 
       "description": "Интернет-магазин и личный кабинет дистрибьютера алкогольной продукции", 
       "video": "wineberry.mp4",
@@ -304,20 +296,21 @@
     },
     { 
       "src": "alan.webp", 
+      "href": "https://cases.cloudmill.ru/alanai",
       "title": "Alan AI", 
       "description": "No-code-разработка сайта платформы голосового ассистента", 
       "awards": [
         {
-          "name": "Лучший сайт телеком/IT/интернет-компании",
+          "name": "Лучший сайт, IT",
           "icon": "silver"
         },
         {
-          "name": "Сайты на конструкторе",
-          "icon": "bronze"
+          "name": "Tagline Awards",
+          "count": 2
         },
         {
-          "name": "«Не выходя из дома», лучший сайт",
-          "icon": "bronze"
+          "name": "Рейтинг Рунета",
+          "count": 1
         }
       ],
       "video": "alan.mp4",
@@ -325,11 +318,12 @@
     },
     { 
       "src": "erga.webp", 
+      "href": "https://cases.cloudmill.ru/erga",
       "title": "ЭРГА", 
       "description": "Cайт производителя магнитных систем и промышленного оборудования", 
       "awards": [
         {
-          "name": "Лучший сайт о промышленности",
+          "name": "Лучший сайт, промышленность",
           "icon": "gold"
         }
       ],
@@ -338,6 +332,7 @@
     },
     { 
       "src": "alfa.webp", 
+      "href": "https://cases.cloudmill.ru/alfa",
       "title": "Альфа Горизонт", 
       "description": "Cайт производителя скважинного оборудования", 
       "video": "alfa.mp4",
@@ -345,16 +340,25 @@
     },
     { 
       "src": "welldone.webp", 
+      "href": "https://cases.cloudmill.ru/welldone",
       "title": "Welldone", 
       "description": "Промо-сайт бренда производителя растительного мяса", 
       "awards": [
+        {
+          "name": "Лучший одностраничный сайт",
+          "icon": "gold"
+        },
+        {
+          "name": "Лучший интерактивный брендинг",
+          "icon": "gold"
+        },
         {
           "name": "Tagline Awards",
           "count": 3
         },
         {
           "name": "Рейтинг Рунета",
-          "count": 1
+          "count": 2
         },
         {
           "name": "Made on Tilda",
@@ -366,6 +370,7 @@
     },
     { 
       "src": "theatre.webp", 
+      "href": "https://cases.cloudmill.ru/eifman",
       "title": "Театр балета Бориса Эйфмана", 
       "description": "Дизайн сайта для государственного академического театра Бориса Эйфмана", 
       "awards": [
@@ -379,16 +384,17 @@
     },
     { 
       "src": "pride.webp", 
+      "href": "https://cases.cloudmill.ru/pride",
       "title": "Pride", 
       "description": "Интернет-магазин поставщика профессионального инструмента и автохимии", 
       "awards": [
         {
-          "name": "Лучший ритейл-сайт",
+          "name": "Лучший сайт, ритейл",
           "icon": "gold"
         },
         {
-          "name": "Лучший сайт для авто- и мотобизнеса",
-          "icon": "silver"
+          "name": "Tagline Awards",
+          "count": 2
         },
         {
           "name": "AWWWARDS",
@@ -404,6 +410,7 @@
     },
     { 
       "src": "fkl.webp", 
+      "href": "https://cases.cloudmill.ru/fkl",
       "title": "FKL", 
       "description": "Интернет-магазин генерального дистрибьютора завода FKL на территории России и СНГ",
       "video": "fkl.mp4",
@@ -411,6 +418,7 @@
     },
     { 
       "src": "guides.webp", 
+      "href": "https://cases.cloudmill.ru/bestguides",
       "title": "Best Guides", 
       "description": "Сайт и личный кабинет для бронирования индивидуальных и групповых туров в Санкт-Петербурге",
       "video": "guides.mp4",
@@ -418,6 +426,7 @@
     },
     { 
       "src": "dubki.webp", 
+      "href": "https://cases.cloudmill.ru/dubki",
       "title": "Дубки", 
       "description": "Cайт и приложение c доставкой для торговой сети продуктовых магазинов «у дома»",
       "video": "dubki.mp4",
@@ -425,6 +434,7 @@
     },
     { 
       "src": "krass.webp", 
+      "href": "https://cases.cloudmill.ru/krass",
       "title": "Krass", 
       "description": "Cайт производителя строительных герметиков, монтажных пен, клеев и уплотнителей",
       "video": "krass.mp4",
@@ -432,9 +442,14 @@
     },
     { 
       "src": "ssp.webp", 
+      "href": "https://cases.cloudmill.ru/ssp",
       "title": "ССП-Консалт", 
       "description": "Сайт юридической компании",
       "awards": [
+        {
+          "name": "AWWWARDS",
+          "count": 1
+        },
         {
           "name": "CSS Design Awards",
           "count": 1
@@ -445,6 +460,7 @@
     },
     { 
       "src": "love.webp", 
+      "href": "https://cases.cloudmill.ru/ll",
       "title": "Люди Любят", 
       "description": "Сайт сети кафе-пекарен в Санкт-Петерубр с функциональностью онлайн-заказа",
       "video": "love.mp4",
